@@ -2,7 +2,7 @@
 - 👀 I’m interested in DSA and Data Analytics
 - 🌱 I’m currently learning OOPs with Java
 - 💞️ I’m looking to collaborate on interactive machine learning models
-- 📫 How to reach me www.linkedin.com/in/krishn-dutt-mishra-065827256
+- 📫 How to reach me krsndutt24@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
